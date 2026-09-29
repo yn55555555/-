@@ -1,0 +1,56 @@
+body    {
+    color: #f79fc5;
+    text-align: center;
+    margin: 0;
+}
+
+
+h1  {
+
+        font-size:  70px;
+
+        letter-spacing:  5px
+
+    }
+
+
+    h2  {
+
+        margin: 0;
+
+    }
+
+    #top  {
+
+        background-image:  url(image/yudai_21BN016_TP_V.jpg) ;
+
+        background-size:  cover;
+
+        padding:  200px  0;
+
+    }
+
+    #about  {
+
+        background-color: ; #F6F6F6;
+
+        padding: 100px;
+
+    }
+
+    #skills {
+
+        background-color: #c5adff;
+
+        padding: 100px;
+
+    }
+
+
+    #portforio  {
+
+        background-color:   hsl(167, 77%, 71%);
+
+        padding: 100px;
+
+    }
